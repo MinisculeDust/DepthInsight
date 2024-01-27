@@ -16,7 +16,7 @@ The NYU-Depth V2 dataset includes video sequences from different indoor environm
 [NYU Dataset](https://www.kaggle.com/datasets/soumikrakshit/nyu-depth-v2)
 
 ## Pre-trained Models
-The pre-trained models can be downloaded at [here](https://drive.google.com/drive/folders/1N5jkP80hznZplgmMf_u2P0fmopg-ZmOJ?usp=drive_link)  (It seems to suddenly fail sometimes. Please drop an email if it happens)
+The pre-trained models can be downloaded at [here](https://drive.google.com/drive/folders/1N5jkP80hznZplgmMf_u2P0fmopg-ZmOJ?usp=sharing)  (It seems to suddenly fail sometimes. Please drop an email if it happens)
 
 ## Environment
 Configure the environment according to the [environment configuration file](/config/DI_environment.txt).
